@@ -12,24 +12,43 @@ A year after GDPR went into effect, Storan and Ryan McErlane formed the start-up
 # Current IT Stack:
 
 Title :	       Technology
+
 URL :	          https://dataships.io
+
 Cloud used:     Google cloud 
-Analytics:  	  Linkedin Insight Tag ; HubSpot Analytics ; Hotjar ; Google Analytics ; Facebook Pixel
+
+Analytics:  	  Linkedin Insight Tag ; HubSpot Analytics ; Hotjar ; Google Analytics ; Facebook Pixel  
+
 Font scripts: 	Font Awesome
+
 Advertising:	  Twitter Ads
+
 Tag managers: 	Google Tag Manager
+
 Live chat:    	HubSpot Chat
+
 JavaScript libraries:	Lightbox ; jQuery Migrate ; jQuery
+
 Cookie compliance: 	Cookiebot
+
 Hosting:	WP Engine
+
 JavaScript frameworks:	Vue.js
+
 Web servers:	Nginx
+
 PaaS:	WP Engine
+
 WordPress plugins	:WP Rocket ; Draftpress HFCM ; Essential Addons for Elementor
+
 Caching:	WP Rocket
+
 Reverse proxies:	Nginx
+
 WordPress themes:	OceanWP
+
 Programming languages:	PHP
+
 Databases:	MySQL
 
 Platforms for computing and communication have seen considerable developments in the hi-tech industry in recent years. The transition to a cloud environment from an on-premises architecture is one such notable technological change. Cloud computing is now at the center of most organizations' technological strategies. Over the past ten years, disruptive technological advancements have affected the computing industry, with cloud taking the lead. The value that the cloud offers is multifaceted. Cloud computing has completely superseded traditional computer methods, both in terms of cost reductions compared to old on-premise models and flexibility in services.
